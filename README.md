@@ -1,5 +1,6 @@
 # Final-Year-Project-Files_MRMMAR010
 MATLAB code and Excel dataset file for MEC4128Z Project 
+The fatigue life data is contained within G20CrNi2Mo Bearing Steel Data_Zhao.xlsx. This data is loaded aat the beginning of each of the live scripts. 
 
 Nine live scripts are included in this folder. 
 
